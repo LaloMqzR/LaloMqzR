@@ -4,5 +4,5 @@
 - 👯 I'm looking to collaborate with the Japan Aerospace Exploration Agency (JAXA)
 - 🤔 I'm looking for help with career advancement in the aerospace industry and technology development
 - 💬 Ask me about technology, space, and spacecraft
-- 📫 You can contact me at eduardp.marquez@upaep.mx
+- 📫 You can contact me at eduardo.marquez@upaep.mx
 -->
